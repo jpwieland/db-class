@@ -1,0 +1,66 @@
+Tarefa 1: 
+Consulta para listar os títulos de todos os filmes lançados em 2008:
+Sua consulta deve produzir uma tabela com uma única coluna para o título de cada filme.
+
+Tarefa 2:
+Consulta para determinar o ano de nascimento de Emma Stone:
+Sua consulta deve produzir uma tabela com uma única coluna e uma única linha (sem contar o cabeçalho) contendo o ano de nascimento de Emma Stone.
+Você pode assumir que há apenas uma pessoa no banco de dados com o nome Emma Stone.
+
+Tarefa 3:
+Consulta para listar os títulos de todos os filmes com data de lançamento em 2018 ou posterior, em ordem alfabética:
+Sua consulta deve produzir uma tabela com uma única coluna para o título de cada filme.
+Os filmes lançados em 2018 devem ser incluídos, assim como os filmes com datas de lançamento no futuro.
+
+Tarefa 4: 
+Consulta para determinar o número de filmes com uma classificação IMDb de 10.0:
+Sua consulta deve produzir uma tabela com uma única coluna e uma única linha (sem contar o cabeçalho) contendo o número de filmes com uma classificação de 10.0.
+
+Tarefa 5: 
+Consulta para listar os títulos e anos de lançamento de todos os filmes de Harry Potter, em ordem cronológica:
+Sua consulta deve produzir uma tabela com duas colunas, uma para o título de cada filme e outra para o ano de lançamento de cada filme.
+Você pode assumir que o título de todos os filmes de Harry Potter começará com as palavras "Harry Potter" e que se um título de filme começar com as palavras "Harry Potter", é um filme de Harry Potter.
+
+Tarefa 6: 
+Consulta para determinar a classificação média de todos os filmes lançados em 2012:
+Sua consulta deve produzir uma tabela com uma única coluna e uma única linha (sem contar o cabeçalho) contendo a classificação média.
+
+Tarefa 7: 
+Consulta para listar todos os filmes lançados em 2010 e suas classificações, em ordem decrescente por classificação. Para filmes com a mesma classificação, ordene-os alfabeticamente por título:
+Sua consulta deve produzir uma tabela com duas colunas, uma para o título de cada filme e outra para a classificação de cada filme.
+Filmes que não têm classificações não devem ser incluídos no resultado.
+
+Tarefa 8:
+Consulta para listar os nomes de todas as pessoas que atuaram em "Toy Story":
+Sua consulta deve produzir uma tabela com uma única coluna para o nome de cada pessoa.
+Você pode assumir que há apenas um filme no banco de dados com o título Toy Story.
+
+Tarefa 9:
+Consulta para listar os nomes de todas as pessoas que atuaram em um filme lançado em 2004, ordenadas por ano de nascimento:
+Sua consulta deve produzir uma tabela com uma única coluna para o nome de cada pessoa.
+Pessoas com o mesmo ano de nascimento podem ser listadas em qualquer ordem.
+Não é necessário se preocupar com pessoas que não têm ano de nascimento listado, desde que aqueles que têm ano de nascimento sejam listados em ordem.
+Se uma pessoa apareceu em mais de um filme em 2004, ela deve aparecer em seus resultados apenas uma vez.
+
+Tarefa 10: 
+Consulta para listar os nomes de todas as pessoas que dirigiram um filme que recebeu uma classificação de pelo menos 9.0:
+Sua consulta deve produzir uma tabela com uma única coluna para o nome de cada pessoa.
+Se uma pessoa dirigiu mais de um filme que recebeu uma classificação de pelo menos 9.0, ela deve aparecer em seus resultados apenas uma vez.
+
+Tarefa 11: 
+Consulta para listar os títulos dos cinco filmes com as classificações mais altas em que Chadwick Boseman atuou, começando pelo mais bem classificado:
+Sua consulta deve produzir uma tabela com uma única coluna para o título de cada filme.
+Você pode assumir que há apenas uma pessoa no banco de dados com o nome Chadwick Boseman.
+
+Tarefa 12: 
+Consulta para listar os títulos de todos os filmes em que tanto Bradley Cooper quanto Jennifer Lawrence atuaram:
+Sua consulta deve produzir uma tabela com uma única coluna para o título de cada filme.
+Você pode assumir que há apenas uma pessoa no banco de dados com o nome Bradley Cooper.
+Você pode assumir que há apenas uma pessoa no banco de dados com o nome Jennifer Lawrence.
+
+Tarefa 13: 
+Consulta para listar os nomes de todas as pessoas que atuaram em um filme em que Kevin Bacon também atuou (nascido em 1958):
+Sua consulta deve produzir uma tabela com uma única coluna para o nome de cada pessoa.
+Pode haver várias pessoas com o nome Kevin Bacon no banco de dados. Certifique-se de selecionar apenas o Kevin Bacon nascido em 1958.
+Kevin Bacon em si não deve ser incluído na lista resultante.
+
